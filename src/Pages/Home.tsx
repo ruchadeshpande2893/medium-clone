@@ -9,7 +9,7 @@ export default function Home() {
             <Header />
             <div className="grid grid-cols-[60vw_40vw] h-full">
                 <div className="grid grid-rows-[45vh_35vh] justify-self-center">
-                    <div className="font-serif text-8xl self-end font-semibold">
+                    <div className="font-serif text-8xl self-end">
                         <h2>Human</h2>
                         <h2>stories & ideas</h2>
                     </div>
